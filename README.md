@@ -1,3 +1,29 @@
+# ToolJet
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+ToolJet AI 的开源基座，面向内部工具、仪表盘、业务应用、工作流与 AI Agent 的企业应用生成平台。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ToolJet is an open-source platform for building internal tools: admin panels, dashboards, and operational apps that run on your existing databases, APIs, and SaaS systems.
 
 Build them by prompting. ToolJet AI turns a description into pages, queries, and components, and the coding agent you already use can do the same through ToolJet's MCP server. Agents build against ToolJet's real component and data contracts rather than emitting free-form code, so what you get is an actual ToolJet app: one your team keeps editing in the visual builder, under the same permissions, environments, and version history as everything else.
